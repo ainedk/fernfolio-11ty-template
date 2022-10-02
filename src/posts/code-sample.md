@@ -1,8 +1,8 @@
 ---
-title: This post contains a code sample
-metaDescription: Add code samples to your markdown files
+title: This post contains a code sample test
 date: 2019-01-01T00:00:00.000Z
 summary: Add code samples to your markdown files
+metaDescription: Add code samples to your markdown files
 tags:
   - tech
   - environment
